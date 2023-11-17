@@ -51,12 +51,6 @@ mybatis-plus:
       logic-delete-value: 1
       logic-not-delete-value: 0
 
-lk:
-  oss:
-    access-key: LTAI5tHuVZjT5sAULyC36K7Y
-    secret-key: A0VhRlcw8rEzpRky6PJdwrV3Is6hkX
-    endpoint: https://oss-cn-beijing.aliyuncs.com
-    bucket: lk-friend
 
 
 
